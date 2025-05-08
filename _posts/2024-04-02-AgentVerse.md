@@ -1,7 +1,7 @@
 ---
 title: "[AgentVerse] Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents (2023)"
 description: "AgentVerse 논문 리뷰"
-author: "Teo Jung"
+author: Teo Jung
 date: 2024-04-02 20:55:00 +0900          # 실제 작성 시각
 categories:
   - paper-review                          # 소문자·하이픈 권장
@@ -9,7 +9,7 @@ tags:
   - llm
   - agent
 pin: true
-media_subpath: "/posts/20240402"
+media_subpath: "_posts/20240402/"
 ---
 **Paper:**
 
