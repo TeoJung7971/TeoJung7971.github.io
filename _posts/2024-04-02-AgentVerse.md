@@ -1,9 +1,19 @@
 ---
+title: AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents(2023)
+description: >-
+  Agentverse 논문 리뷰
+author: Teo Jung
+date: 2024-04-02 20:55:00 +0800
+categories: [Paper Review]
+tags: [LLM, Agent]
+pin: true
+media_subpath: '/posts/20240402'
+---
 title: [AgentVerse] Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents(2023)
 date: 2024-04-02 HH:MM:SS +/-TTTT
 categories: [Paper Review]
 tags: [LLM, Agent]     # TAG names should always be lowercase
----
+
 **Paper:**
 
 [cz5waila03cyo0tux1owpyofgoryroob.itic-sci.com](https://cz5waila03cyo0tux1owpyofgoryroob.itic-sci.com/9C/54/B4/9C54B47616795A320E36FCB1EA595C91.pdf)
