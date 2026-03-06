@@ -9,7 +9,7 @@ tags:
   - llm
   - agent
 pin: true
-media_subpath: "_posts/20240402/"
+media_subpath: "/posts/20240402"
 ---
 **Paper:**
 
