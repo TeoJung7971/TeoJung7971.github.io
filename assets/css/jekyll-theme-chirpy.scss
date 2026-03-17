@@ -8,3 +8,39 @@
 ';
 
 /* append your custom style below */
+
+/* 1. 영문 전용 가상 폰트 생성 */
+  @font-face {
+    font-family: 'ScaledEnglish';
+    src: local('Arial'), local('Helvetica Neue'), local('Segoe UI');
+    unicode-range: U+0020-007F; /* 영어 알파벳, 숫자, 기본 기호 영역 */
+    size-adjust: 104%; 
+  }
+
+  /* 2. 한글 전용 가상 폰트 생성 */
+  @font-face {
+    font-family: 'BaseKorean';
+    src: local('Apple SD Gothic Neo'), local('Malgun Gothic'), local('Dotum');
+    unicode-range: U+AC00-D7A3, U+1100-11FF, U+3130-318F; /* 한글 영역 */
+  }
+
+  /* 3. 본문에 폰트 및 기준 크기 적용 */
+  .content p, 
+  .content li, 
+  .content blockquote,
+  .content table {
+    /* 영문->한글 */
+    font-family: 'ScaledEnglish', 'BaseKorean', sans-serif !important;
+    font-size: 1.05rem !important;
+    line-height: 1.8 !important;
+  }
+
+  .content blockquote.small-math p {
+  font-size: 0.85rem !important;
+  }
+
+  hr {
+    border: none !important;
+    border-top: 2px solid #cbd5e1 !important; /* 선 두께 2px, 조금 더 진한 회색으로 설정 */
+    margin: 2rem 0 !important; /* 위아래 여백을 넉넉하게 확보 */
+  }
