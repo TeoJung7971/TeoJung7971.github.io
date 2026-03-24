@@ -4,7 +4,7 @@ description: "AgentVerse 논문 리뷰"
 author: Teo Jung
 date: 2024-04-02 20:55:00 +0900          # 실제 작성 시각
 categories:
-  - paper-review                          # 소문자·하이픈 권장
+- Paper                          # 소문자·하이픈 권장
 tags:
   - llm
   - agent

@@ -28,9 +28,11 @@
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
   },
   "cSpell.words": [
+    "LSTM",
     "mathbb",
     "Mikolov",
     "Multimodal",
+    "OPENDART",
     "Softmax",
     "substack",
     "YONO"
