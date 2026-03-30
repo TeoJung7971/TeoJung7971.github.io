@@ -1,7 +1,7 @@
 ---
 title: "[FSV] Refactoring"
 description: "Refactoring the Original Stock Price Prediction Module of FSV"
-author: Teo Jung
+author: TeoJung
 date: 2026-03-19 14:00:00 +0900         
 categories:
   - Personal-Project

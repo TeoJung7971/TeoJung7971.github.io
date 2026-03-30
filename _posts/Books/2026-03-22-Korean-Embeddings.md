@@ -1,4 +1,23 @@
-# 한국어 임베딩(이기창 저)
+---
+title: "[Book] 한국어 임베딩(이기창 저)"
+description: "'한국어 임베딩'의 발췌독기록"
+author: TeoJung
+date: 2026-03-22 14:00:00 +0900         
+categories:
+  - Book
+tags:
+  - Natural Language Processing
+  - Word Embeddings
+  - Korean
+pin: false
+math: true
+media_subpath: /assets/img/posts/
+---
+
+![image](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791161753508.jpg)_출처: 교보문고_
+
+- [깃허브 링크](https://github.com/ratsgo/embedding)
+- [교보문고 링크](https://product.kyobobook.co.kr/detail/S000001804861)
 
 ----
 
